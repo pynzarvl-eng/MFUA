@@ -6,6 +6,7 @@
 - [Bash-Linux](/bash.md)
 - [Bashscript](/bashscript.md)
 - [Git](/Git.md)
+  [конспект преподователя](https://github.com/rurewa/imfua)
 
 ## лыпсы чейс
 [Сайт не обман.ру](https://github.com/pynzarvl-eng/mi_site)

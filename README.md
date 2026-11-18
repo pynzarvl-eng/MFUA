@@ -6,10 +6,11 @@
 - [Bash-Linux](/bash.md)
 - [Bashscript](/bashscript.md)
 - [Git](/Git.md)
+  [Запуск Олламы в контейнер](https://github.com/pynzarvl-eng/MFUA/blob/main/Ollama.md)
   [конспект преподователя](https://github.com/rurewa/imfua)
   
 ## лыпсы чейс
 [Сайт не обман.ру](https://github.com/pynzarvl-eng/mi_site)
 
 ## сайт-работа в группе
-(https://github.com/pynzarvl-eng/MHelper)
+[сайт майнкрафта](https://github.com/pynzarvl-eng/MHelper)

@@ -18,7 +18,7 @@ docker version
 Команда выводит сведения о клиенте и серверной части Docker. Если версии
 отображаются без ошибки подключения, значит Docker готов к работе.
 
-![Скрин версии Docker]([docker-version.png](https://github.com/pynzarvl-eng/MFUA/blob/main/lab/docker_version.png))
+![Скрин версии Docker]([docker-version.png](docker_version.png))
 
 
 

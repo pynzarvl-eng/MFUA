@@ -19,4 +19,4 @@
 [сайт майнкрафта](https://github.com/pynzarvl-eng/MHelper)
 
 ## лаборраторные работы
-- [лаборраторные работы](https://github.com/pynzarvl-eng/MFUA/blob/main/lab.md)
+- [лабораторные работы](https://github.com/pynzarvl-eng/MFUA/blob/main/lab/readme.md)

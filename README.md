@@ -12,7 +12,7 @@
 - [Запуск Олламы в контейнер](https://github.com/rurewa/imfua)
 
 ## лыпсы чейс
-[Сайт не обман.ру](https://github.com/pynzarvl-eng/mi_site)
+[репозиторий](https://github.com/pynzarvl-eng/mi_site)
 
 ## сайт-работа в группе
 [сайт майнкрафта](https://github.com/pynzarvl-eng/MHelper)

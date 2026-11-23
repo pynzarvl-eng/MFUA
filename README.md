@@ -9,10 +9,10 @@
 - [Запуск Олламы в контейнер](https://github.com/pynzarvl-eng/MFUA/blob/main/Ollama.md)
 
 ## Реепозиторий преподователя
-- [Запуск Олламы в контейнер](https://github.com/rurewa/imfua)
+- [репозиторий](https://github.com/rurewa/imfua)
 
 ## лыпсы чейс
-[репозиторий](https://github.com/pynzarvl-eng/mi_site)
+[сайт](https://github.com/pynzarvl-eng/mi_site)
 
 ## сайт-работа в группе
 [сайт майнкрафта](https://github.com/pynzarvl-eng/MHelper)

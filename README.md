@@ -7,7 +7,7 @@
 - [Bashscript](/bashscript.md)
 - [Git](/Git.md)
 - [Запуск Олламы в контейнер](https://github.com/pynzarvl-eng/MFUA/blob/main/Ollama.md)
-
+  [Docker](https://github.com/pynzarvl-eng/MFUA/blob/main/docker.md)
 ## Реепозиторий преподователя
 - [репозиторий](https://github.com/rurewa/imfua)
 

@@ -111,7 +111,7 @@ docker run -d --name my-nginx -p 8080:80 nginx
 docker ps
 ```
 
-![Фото вывода ps](docker_ps)
+![Фото вывода ps](docker_ps.png)
 
 ## 5. Проверка веб-сервера в браузере
 

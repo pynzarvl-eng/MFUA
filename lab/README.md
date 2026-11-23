@@ -81,7 +81,7 @@ docker pull nginx
 docker images
 ```
 
-![Фото вывода](03-nginx-image.png)
+![Фото вывода](docker_images_2.png)
 
 ## 4. Создание и запуск контейнера
 

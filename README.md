@@ -8,8 +8,9 @@
 - [Git](/Git.md)
 - [Запуск Олламы в контейнер](https://github.com/pynzarvl-eng/MFUA/blob/main/Ollama.md)
 
--[Реозиторий преподователя](https://github.com/rurewa/imfua)
-  
+## Реепозиторий преподователя
+https://github.com/rurewa/imfua
+
 ## лыпсы чейс
 [Сайт не обман.ру](https://github.com/pynzarvl-eng/mi_site)
 

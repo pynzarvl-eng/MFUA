@@ -9,7 +9,7 @@
 - [Запуск Олламы в контейнер](https://github.com/pynzarvl-eng/MFUA/blob/main/Ollama.md)
 
 ## Реепозиторий преподователя
-https://github.com/rurewa/imfua
+[репозиторий]https://github.com/rurewa/imfua)
 
 ## лыпсы чейс
 [Сайт не обман.ру](https://github.com/pynzarvl-eng/mi_site)

@@ -7,6 +7,7 @@
 - [Bashscript](/bashscript.md)
 - [Git](/Git.md)
 - [Запуск Олламы в контейнер](https://github.com/pynzarvl-eng/MFUA/blob/main/Ollama.md)
+
 -[Реозиторий преподователя](https://github.com/rurewa/imfua)
   
 ## лыпсы чейс
